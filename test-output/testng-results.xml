@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-17T20:34:54 IST" name="Suite" finished-at="2023-01-17T20:35:35 IST" duration-ms="41274">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T20:34:54 IST" name="Test" finished-at="2023-01-17T20:35:35 IST" duration-ms="41274">
+      <class name="com.SwagLabs.Test.OrderDescriptionPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SwagLabs.Test.OrderDescriptionPageTest@18df8434]" started-at="2023-01-17T20:34:54 IST" name="setUp" finished-at="2023-01-17T20:35:24 IST" duration-ms="29602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.SwagLabs.Test.OrderDescriptionPageTest@18df8434]" started-at="2023-01-17T20:35:24 IST" name="pageSetUp" finished-at="2023-01-17T20:35:35 IST" duration-ms="11507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="verifyCurrentUrl()[pri:1, instance:com.SwagLabs.Test.OrderDescriptionPageTest@18df8434]" started-at="2023-01-17T20:35:35 IST" name="verifyCurrentUrl" finished-at="2023-01-17T20:35:35 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCurrentUrl -->
+        <test-method signature="verifyTitle()[pri:2, instance:com.SwagLabs.Test.OrderDescriptionPageTest@18df8434]" started-at="2023-01-17T20:35:35 IST" name="verifyTitle" finished-at="2023-01-17T20:35:35 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="verifyOrder()[pri:3, instance:com.SwagLabs.Test.OrderDescriptionPageTest@18df8434]" started-at="2023-01-17T20:35:35 IST" name="verifyOrder" finished-at="2023-01-17T20:35:35 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrder -->
+      </class> <!-- com.SwagLabs.Test.OrderDescriptionPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
